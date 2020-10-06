@@ -4,6 +4,7 @@
 
 The Data Analytics department conducted an analysis of the New York Citi Bike Program to determine if there were any trends or insights that could be gleaned from the data. The scope of the analysis is all bike users during the period of April 2020 - June 2020.
 
+Exploration
 First, we reviewed the distribution of stations where users started their journeys and ended their journeys. The map analysis revealed that the distribution of starting stations and ending stations was fairly similar. Based on this, we can conclude that riders tend to be local meaning that they tend to ride in the same general area.
 
 Next, we analyzed the distribution of the users riding the bikes. The analysis compared average length of trips to user type. This analysis revealed that the vast majority of longer trips were taken by "Customer" users. Customer users rent bikes with either 24-hour passes or 3-day passes. It's very interesting that this group of temporary users are taking the longest rides using our bikes. After discovering this insight, we wanted to know more about this group and determine how we can reach them to encourage them to consider subscribing to our service.
