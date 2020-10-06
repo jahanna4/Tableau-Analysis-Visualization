@@ -1,6 +1,6 @@
 # Tableau: Citi Bike Data Analysis & Visualization
 
-### Visual Story and Analysis at link: https://public.tableau.com/views/CityBikeChallenge_15955630265530/UserStory?:language=en&:display_count=y&:origin=viz_share_link
+#### Visual Story and Analysis at link: https://public.tableau.com/views/CityBikeChallenge_15955630265530/UserStory?:language=en&:display_count=y&:origin=viz_share_link
 
 The Data Analytics department conducted an analysis of the New York Citi Bike Program to determine if there were any trends or insights that could be gleaned from the data. The scope of the analysis is all bike users during the period of April 2020 - June 2020.
 
