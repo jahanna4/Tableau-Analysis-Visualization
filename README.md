@@ -4,7 +4,7 @@
 
 The Data Analytics department conducted an analysis of the New York Citi Bike Program to determine if there were any trends or insights that could be gleaned from the data. The scope of the analysis is all bike users during the period of April 2020 - June 2020.
 
-##### Exploration
+#### Exploration
 First, we reviewed the distribution of stations where users started their journeys and ended their journeys. The map analysis revealed that the distribution of starting stations and ending stations was fairly similar. Based on this, we can conclude that riders tend to be local meaning that they tend to ride in the same general area.
 
 #### Analysis
