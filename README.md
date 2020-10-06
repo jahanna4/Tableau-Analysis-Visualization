@@ -1,5 +1,4 @@
 # Tableau: Citi Bike Data Analysis & Visualization
-Citi Bike Data Analysis
 
 Visual Story and Analysis at link: https://public.tableau.com/views/CityBikeChallenge_15955630265530/UserStory?:language=en&:display_count=y&:origin=viz_share_link
 
